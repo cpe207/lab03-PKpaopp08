@@ -124,5 +124,8 @@ border-radius: 8px;
   text-align: left;
   border-radius: 8px;
  }
-
+ .flex-warp {
+  display: flex;  
+  flex-wrap: wrap;
+}
 
